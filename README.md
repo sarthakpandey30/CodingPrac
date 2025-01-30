@@ -27,7 +27,7 @@ Given multiple warehouses with varying capacities, determine which combination o
 
 ---
 
-### **Shortened Question: Social Media Feed Simulation**
+### **Question 4: Social Media**
 
 **Question:**  
 Design a system to simulate a simple social media feed with the following functionalities:
