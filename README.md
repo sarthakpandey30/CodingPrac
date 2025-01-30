@@ -27,13 +27,22 @@ Given multiple warehouses with varying capacities, determine which combination o
 
 ---
 
-## **Question 4: Social Media User System (Feed Simulation)**
-Design a simple system to simulate the social media feed of users.
+### **Shortened Question: Social Media Feed Simulation**
 
-- Each user should have a profile with a unique username.
-- Users can follow/unfollow other users.
-- Users can post messages.
-- A user’s feed should show their own posts and posts from users they follow, sorted by most recent.
+**Question:**  
+Design a system to simulate a simple social media feed with the following functionalities:
+
+1. Users can post messages.
+2. Users can follow/unfollow other users.
+3. A user's feed displays their own posts and posts from the users they follow, sorted by the most recent.
+
+**Requirements:**  
+- Create a `User` class to manage user attributes and posts.
+- Create a `SocialMediaSystem` class to manage user registration and feed generation.
+- Include test cases to demonstrate user interaction and feed retrieval.
+
+**Note:** Ensure the solution is well-structured and executable within 30 minutes.
+
 
 ---
 
